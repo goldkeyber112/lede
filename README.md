@@ -1,5 +1,4 @@
-
-Welcome to Lean's  git source of OpenWrt and packages
+# Welcome to Lean's  git source of OpenWrt and packages
 
 Note:
 --
@@ -46,4 +45,5 @@ the lack of case sensitiveness in the file system.
 ## GPLv3 is compatible with more licenses than GPLv2: it allows you to make combinations with code that has specific kinds of additional requirements that are not in GPLv3 itself. Section 7 has more information about this, including the list of additional requirements that are permitted.
 
 
-#本项目基于lean源码修改自用二次发布，更多支持请访问原项目。
+## 本项目基于lean源码修改自用二次发布，更多支持请访问原项目。  
+the Original project  https://github.com/coolsnowwolf/lede

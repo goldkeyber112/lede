@@ -48,4 +48,4 @@ GPLv3 is compatible with more licenses than GPLv2: it allows you to make combina
 
 
 This project is based on lean's source code,modified to self-use. For more support, please visit the original project.  
-the original project [Lean's OpenWrt source](https://github.com/coolsnowwolf/lede) &#x2002;👈👍👍👍
+the original project [Lean's OpenWrt source](https://github.com/coolsnowwolf/lede) &#xA0;👈👍👍👍

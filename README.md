@@ -1,6 +1,6 @@
 # Welcome to Lean's  git source of OpenWrt and packages
 
-Note:
+Note
 --
 1. DO **NOT** USE **ROOT** USER TO CONFIGURE!!!
 
@@ -40,6 +40,7 @@ To build your own firmware you need to have access to a Linux, BSD or MacOSX sys
 (case-sensitive filesystem required). Cygwin will not be supported because of
 the lack of case sensitiveness in the file system.
 
+## License
 Note: Addition Lean's private package source code in `./package/lean` directory. Use it under GPL v3.  
 GPLv3 is compatible with more licenses than GPLv2: it allows you to make combinations with code that has specific kinds of additional requirements that are not in GPLv3 itself. Section 7 has more information about this, including the list of additional requirements that are permitted.
 

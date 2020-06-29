@@ -41,9 +41,11 @@ To build your own firmware you need to have access to a Linux, BSD or MacOSX sys
 the lack of case sensitiveness in the file system.
 
 ## License
+See [LICENSE](LICENSE) file.  
+
 Note: Addition Lean's private package source code in `./package/lean` directory. Use it under GPL v3.  
 GPLv3 is compatible with more licenses than GPLv2: it allows you to make combinations with code that has specific kinds of additional requirements that are not in GPLv3 itself. Section 7 has more information about this, including the list of additional requirements that are permitted.
 
 
-本项目基于lean源码修改自用二次发布，更多支持请访问原项目。  
-the Original project  https://github.com/coolsnowwolf/lede
+This project is based on lean's source code,modified to self-use. For more support, please visit the original project.  
+the original project [Lean's OpenWrt source](https://github.com/coolsnowwolf/lede)
